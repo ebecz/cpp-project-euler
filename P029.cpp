@@ -1,5 +1,7 @@
 #include <iostream>
 #include <cmath>
+#include <cstring>
+
 using namespace std;
 signed int P029(unsigned int n){
     unsigned int R=0;

@@ -1,5 +1,5 @@
 #include <iostream>
-#include <memory>
+#include <cstring>
 using namespace std;
 unsigned int P023(unsigned int n){
     bool N[n];

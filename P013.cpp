@@ -1,4 +1,5 @@
 #include <iostream>
+#include <cstring>
 using namespace std;
 unsigned long long int P013(void){
     unsigned char X[61];
