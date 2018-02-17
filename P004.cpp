@@ -1,3 +1,5 @@
+#include <iostream>
+using namespace std;
 unsigned int P004(void){
     int j,k,i=90;
     int M[6],r,s,N=0;
@@ -21,4 +23,8 @@ unsigned int P004(void){
         }while(j--);
     }while(i--);
     return N;
+}
+int main(){
+    cout<<P004()<<endl;
+    return 0;
 }

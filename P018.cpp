@@ -1,4 +1,5 @@
 #include <iostream>
+#include <stdio.h>
 using namespace std;
 #define TAM 15
 short int NumL[15]={0,};
